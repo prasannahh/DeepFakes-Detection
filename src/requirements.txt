@@ -1,0 +1,9 @@
+streamlit
+tensorflow>=2.12
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+ffmpeg-python
